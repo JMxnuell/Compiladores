@@ -1,8 +1,8 @@
 # Compiladores
 Practicas realizadas durante el curso de Compiladores en la Escuela Superior de Computo
 
-###Lenguaje
-*C
+### Lenguaje
+* C
 
 ### Prácticas
 | Práctica      | Descripción                 | 
