@@ -3,6 +3,7 @@ Practicas realizadas durante el curso de Compiladores en la Escuela Superior de 
 
 ### Lenguaje
 * C
+* C++ 17
 
 ### Prácticas
 | Práctica      | Descripción                 | 
