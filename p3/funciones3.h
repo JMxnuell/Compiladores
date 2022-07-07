@@ -31,6 +31,7 @@ class AFN_to_AFD{
 			this->Delta = Delta;
 			this->Eact = 'A';
 		}
+		//algoritmo de conversión AFND a AFD
 		vi C_E(const vi &estados){
 			vi vPosible;
 			if(estados[0] == -1){
