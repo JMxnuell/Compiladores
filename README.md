@@ -1,9 +1,6 @@
 # Compiladores
 Practicas realizadas durante el curso de Compiladores en la Escuela Superior de Computo (ESCOM).
 
-### Lenguaje
-
-
 ### Prácticas
 | Práctica      | Descripción                 | 
 | ------------- |:---------------------------:| 
